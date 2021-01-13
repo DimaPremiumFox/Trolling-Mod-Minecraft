@@ -1,0 +1,185 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Trolling",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trolling"
+    },
+    {
+      "name": "Explode1",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explode_1"
+    },
+    {
+      "name": "Explode2",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explode_2"
+    },
+    {
+      "name": "Explode3",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explode_3"
+    },
+    {
+      "name": "Explode4",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explode_4"
+    },
+    {
+      "name": "Dooropen",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dooropen"
+    },
+    {
+      "name": "Doorclose",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doorclose"
+    },
+    {
+      "name": "ModCommandCommandExecuted",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mod_command_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ModCommand",
+      "type": "command",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mod_command"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "explode1",
+      "files": [
+        "explode1"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "explode2",
+      "files": [
+        "explode2"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "explode3",
+      "files": [
+        "explode3"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "explode4",
+      "files": [
+        "explode4"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "dooropen",
+      "files": [
+        "door_open"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "doorclose",
+      "files": [
+        "door_close"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.trolling.explode_4.desc": "explosion sound 4",
+      "item.trolling.explode_4": "Explode 4",
+      "subtitles.explode1": "",
+      "item.trolling.doorclose.desc": "door sound 2",
+      "item.trolling.explode_1.desc": "explosion sound 1",
+      "subtitles.dooropen": "",
+      "item.trolling.explode_1": "Explode 1",
+      "subtitles.explode3": "",
+      "subtitles.explode2": "",
+      "item.trolling.explode_3": "Explode 3",
+      "item.trolling.explode_2": "Explode 2",
+      "subtitles.explode4": "",
+      "subtitles.doorclose": "",
+      "item.trolling.dooropen.desc": "door sound 1",
+      "item.trolling.dooropen": "Dooropen",
+      "item.trolling.explode_2.desc": "explosion sound 2",
+      "item.trolling.doorclose": "Doorclose",
+      "itemGroup.tabtrolling": "Trolling",
+      "item.trolling.explode_3.desc": "explosion sound 3"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "trolling",
+    "modName": "Trolling",
+    "version": "1.0.0",
+    "author": "killt, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.trolling",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

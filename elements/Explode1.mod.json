@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "explode1",
+    "name": "Explode 1",
+    "description": "explosion sound 1",
+    "creativeTab": {
+      "value": "CUSTOM:Trolling"
+    },
+    "music": {
+      "value": "CUSTOM:explode1"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

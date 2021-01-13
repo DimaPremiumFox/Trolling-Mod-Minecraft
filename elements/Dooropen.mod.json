@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "door",
+    "name": "Dooropen",
+    "description": "door sound 1",
+    "creativeTab": {
+      "value": "CUSTOM:Trolling"
+    },
+    "music": {
+      "value": "CUSTOM:dooropen"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

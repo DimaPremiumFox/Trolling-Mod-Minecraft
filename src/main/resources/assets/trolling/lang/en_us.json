@@ -1,0 +1,21 @@
+{
+  "item.trolling.explode_4.desc": "explosion sound 4",
+  "item.trolling.explode_4": "Explode 4",
+  "subtitles.explode1": "",
+  "item.trolling.doorclose.desc": "door sound 2",
+  "item.trolling.explode_1.desc": "explosion sound 1",
+  "subtitles.dooropen": "",
+  "item.trolling.explode_1": "Explode 1",
+  "subtitles.explode3": "",
+  "subtitles.explode2": "",
+  "item.trolling.explode_3": "Explode 3",
+  "item.trolling.explode_2": "Explode 2",
+  "subtitles.explode4": "",
+  "subtitles.doorclose": "",
+  "item.trolling.dooropen.desc": "door sound 1",
+  "item.trolling.dooropen": "Dooropen",
+  "item.trolling.explode_2.desc": "explosion sound 2",
+  "item.trolling.doorclose": "Doorclose",
+  "itemGroup.tabtrolling": "Trolling",
+  "item.trolling.explode_3.desc": "explosion sound 3"
+}

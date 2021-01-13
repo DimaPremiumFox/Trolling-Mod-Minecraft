@@ -1,0 +1,56 @@
+{
+  "explode1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "trolling:explode1",
+        "stream": true
+      }
+    ]
+  },
+  "explode2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "trolling:explode2",
+        "stream": true
+      }
+    ]
+  },
+  "explode3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "trolling:explode3",
+        "stream": true
+      }
+    ]
+  },
+  "explode4": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "trolling:explode4",
+        "stream": true
+      }
+    ]
+  },
+  "dooropen": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "trolling:door_open",
+        "stream": true
+      }
+    ]
+  },
+  "doorclose": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "trolling:door_close",
+        "stream": true
+      }
+    ]
+  }
+}
